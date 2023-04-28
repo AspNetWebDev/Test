@@ -1,0 +1,29 @@
+{
+  "name": "Bipin Joshi",
+  "sectionTitle": null,
+  "countryCode": "in",
+  "slogan": "",
+  "type": "CREATOR",
+  "bio": "",
+  "tags": "ASP.NET, .NET, C#",
+  "socials": {
+    "youtube": "https://www.youtube.com/@bipinjoshidotnet",
+    "linkedin": "https://www.linkedin.com/in/joshibipin",
+    "twitter": "https://twitter.com/joshibipin",
+    "github": "https://github.com/joshibipin",
+    "mastodon": "",
+    "sessionize": ""    
+  },
+  "channels": [
+    {
+      "name": "Site",
+      "url": "https://www.binaryintellect.net"
+    }
+  ],
+  "feeds": [
+    {
+      "type": "LinkTagRssType",
+      "url": "https://www.binaryintellect.net/articles/rssfeed.aspx"
+    }
+  ]
+}
